@@ -2,8 +2,7 @@
 
 ##Userstory 003
 
-![Bild på en paj](https://unsplash.com/photos/aX_ljOOyWJY)
-
+![Bild på ett äpple](https://source.unsplash.com/random/1600x900?apple)
 
 ##Userstory 007
 
