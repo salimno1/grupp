@@ -5,6 +5,14 @@
 
 ![Bild på ett äpple](https://source.unsplash.com/random/1600x900?apple)
 
+
+## Userstory 004
+
+```javascript
+let a = 'Mango';
+
+```
+
 ## Userstory 007
 
 **bold text** *italicized text*
@@ -43,4 +51,17 @@ classO .. classP : Link(Dashed)
 |row1|row2|
 |:---|:---|
 |salim|salim|
+
+## Userstory-016
+```Mermaid
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+        Bob->>Alice: Not so good :(
+    else is well
+        Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+        Bob->>Alice: Thanks for asking
+    end
 ```
