@@ -34,7 +34,7 @@ Task list:
 > blockquote.
 ```
 ## Userstory-013
-```Mermaid
+```mermaid
 classDiagram
 classA --|> classB : Inheritance
 classC --* classD : Composition
@@ -53,7 +53,7 @@ classO .. classP : Link(Dashed)
 |salim|salim|
 
 ## Userstory-016
-```Mermaid
+```mermaid
 sequenceDiagram
     Alice->>Bob: Hello Bob, how are you?
     alt is sick
