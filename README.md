@@ -34,7 +34,7 @@ Task list:
 > blockquote.
 ```
 ## Userstory-013
-```Mermaid
+```mermaid
 classDiagram
 classA --|> classB : Inheritance
 classC --* classD : Composition
@@ -48,3 +48,17 @@ classO .. classP : Link(Dashed)
 
 ## Userstory-015
 This ` word ` is highlighted 
+
+## Userstory-016
+```mermaid
+sequenceDiagram
+    Alice->>Bob: Hello Bob, how are you?
+    alt is sick
+        Bob->>Alice: Not so good :(
+    else is well
+        Bob->>Alice: Feeling fresh like a daisy
+    end
+    opt Extra response
+        Bob->>Alice: Thanks for asking
+    end
+```
