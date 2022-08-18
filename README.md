@@ -1,7 +1,6 @@
 # grupp
 
 
-
 ## Userstory 003
 
 ![Bild på ett äpple](https://source.unsplash.com/random/1600x900?apple)
@@ -21,7 +20,6 @@ Task list:
 - [x] Clone repository
 - [x] Start working with userstories
 - [ ] Finish all userstories
-
 
 ## Userstory-011
 ```
