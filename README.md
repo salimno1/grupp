@@ -13,6 +13,11 @@ let a = 'Mango';
 
 ```
 
+## Userstory-006
+|row1|row2|
+|:---|:---|
+|salim|salim|
+
 ## Userstory 007
 
 **bold text** *italicized text*
@@ -33,6 +38,15 @@ Task list:
 ```
 > blockquote.
 ```
+
+## Userstory-012
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
 ## Userstory-013
 ```mermaid
 classDiagram
@@ -49,11 +63,6 @@ classO .. classP : Link(Dashed)
 ## Userstory-015
 This ` word ` is highlighted 
 
-## Userstory-006
-```
-|row1|row2|
-|:---|:---|
-|salim|salim|
 
 ## Userstory-016
 ```mermaid
