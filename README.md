@@ -47,7 +47,7 @@ classO .. classP : Link(Dashed)
 ```
 
 ## Userstory-006
-```
+
 |row1|row2|
 |:---|:---|
 |salim|salim|
