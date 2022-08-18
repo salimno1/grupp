@@ -2,6 +2,14 @@
 ##Userstory 001
 ```js
 string name = "Salim"
+
+## Userstory 002
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
 ```
 
 ## Userstory 003
@@ -15,10 +23,23 @@ string name = "Salim"
 let a = 'Mango';
 
 ```
+## Userstory-005
+[Länk till Youtube](https://www.youtube.com)
+
+
+## Userstory-006
+|row1|row2|
+|:---|:---|
+|salim|salim|
 
 ## Userstory 007
 
 **bold text** *italicized text*
+
+## Userstory 008
+
+Found a :bug:
+
 
 ## Userstory 009
 
@@ -36,6 +57,15 @@ Task list:
 ```
 > blockquote.
 ```
+
+## Userstory-012
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
 ## Userstory-013
 ```mermaid
 classDiagram
@@ -52,11 +82,6 @@ classO .. classP : Link(Dashed)
 ## Userstory-015
 This ` word ` is highlighted 
 
-## Userstory-006
-
-|row1|row2|
-|:---|:---|
-|salim|salim|
 
 ## Userstory-016
 ```mermaid
