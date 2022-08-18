@@ -4,6 +4,14 @@
 
 ![Bild på ett äpple](https://source.unsplash.com/random/1600x900?apple)
 
+
+## Userstory 004
+
+```javascript
+let a = 'Mango';
+
+```
+
 ## Userstory 007
 
 **bold text** *italicized text*
